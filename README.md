@@ -16,7 +16,12 @@ In part one, create a detailed ERD of your design using LucidChart.
 
 Create the database you designed in Part 1 including appropriate constraints. Add data to each table for at least 3 purchases including you as one customer. Execute queries on each table to display all the data. Create a document with the queries and results 
 
+
+
 RESULTS:
+
+
+
 mysql> describe customer;
 +-------+-------------+------+-----+---------+----------------+
 | Field | Type        | Null | Key | Default | Extra          |
